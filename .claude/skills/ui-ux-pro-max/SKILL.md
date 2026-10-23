@@ -5,6 +5,13 @@ description: "UI/UX design intelligence for web, mobile, and desktop. This skill
 
 # UI/UX Pro Max - Design Intelligence
 
+> **Bản fork cho dự án Nhật ký vết thương (app ghi nhận vết thương ở bệnh viện, dùng
+> chủ yếu trên điện thoại).** Chỉ dùng để **rà soát và góp ý** khi người dùng yêu cầu,
+> chủ yếu nhóm **Accessibility** (tương phản, nhãn, bàn phím) và **Touch & Interaction**
+> (vùng chạm ≥44px, phản hồi khi tải). **Không** dùng các nhóm Style/Palette/Font để đổi
+> giao diện: dự án đã chốt một màu nhấn, một hệ bo góc, sáng/tối, token trong
+> `tokens.css`. Nếu gợi ý mâu thuẫn với `CLAUDE.md` của dự án thì `CLAUDE.md` thắng.
+
 Searchable local UI/UX guidance: 79 searchable styles (50 active), 192 product palettes and exact reasoning profiles, 74 font pairings, 119 UX guidelines, 105 curated icons, 17 GSAP presets, 25 chart types, and 22 technology stacks.
 
 ## When to Apply
